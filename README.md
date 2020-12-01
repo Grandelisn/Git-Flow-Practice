@@ -10,11 +10,12 @@ This project is designed for one to practice the Git/Github workflow here at Lam
   - [1] Add your name to the list of names below.
   - [1] Run your usual git commands or adding/commiting and pushing **Be sure to push to your branch**
 - [1] Create a Pull-Request to submit your work
-  - [1] Use your own student fork as the base (compare across forks, base-fork -> master).
+  - [1] Use your own student fork as the base (compare across forks, base-fork -> master)
 
 
 ## ADD your name here
 
 - Steve Rogers
 - Ryan Hamblin
-- Nathaniel Grandelis
+- Nathaniel Grandelis aka Nate
+
